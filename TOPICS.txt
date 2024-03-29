@@ -1,0 +1,11 @@
+1) Git/Github
+2) Maven
+3) Sonarqube
+4) Nexus
+5) Jenkins
+6) Tomcat
+7) Ansible/Terraform
+8) Docker
+9) K8S
+10) P&G
+11) Service now
